@@ -1,2 +1,2 @@
 # Quiz-Master
-This is web-based project for taking quiz for company employee.
+This is web-based project for taking quiz for company employee. also in this project i add privileges that only admin can watch marks and also who have right by admin can watch marks. eigther worker who work on dashboard can add exam, set, question and answer. Also each employee gone give 20 marks mcq quiz. for each question 1 mark. and each time 20 different question was load or ask to the employee. Means their was 50 question's of set from that randomly 20 question asked. 
